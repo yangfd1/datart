@@ -86,6 +86,8 @@ public class DashboardServiceImpl extends BaseService implements DashboardServic
 
     private final DatachartService datachartService;
 
+    private final DashboardLogService dashboardLogService;
+
 
     public DashboardServiceImpl(DashboardMapperExt dashboardMapper,
                                 WidgetMapperExt widgetMapper,
@@ -100,7 +102,8 @@ public class DashboardServiceImpl extends BaseService implements DashboardServic
                                 FolderService folderService,
                                 VariableService variableService,
                                 ViewService viewService,
-                                DatachartService datachartService) {
+                                DatachartService datachartService,
+                                DashboardLogService dashboardLogService) {
         this.dashboardMapper = dashboardMapper;
         this.widgetMapper = widgetMapper;
         this.rweMapper = rweMapper;
@@ -116,6 +119,7 @@ public class DashboardServiceImpl extends BaseService implements DashboardServic
         this.variableService = variableService;
         this.viewService = viewService;
         this.datachartService = datachartService;
+        this.dashboardLogService = dashboardLogService;
     }
 
 
@@ -194,7 +198,33 @@ public class DashboardServiceImpl extends BaseService implements DashboardServic
         dashboardDetail.setQueryVariables(variables);
         // download permission
         dashboardDetail.setDownload(securityManager.hasPermission(PermissionHelper.vizPermission(dashboard.getOrgId(), "*", dashboardId, Const.DOWNLOAD)));
-
+        //add dashboardLog
+        DashboradLog dashboradLog = new DashboradLog();
+        dashboradLog.setId(UUIDGenerator.generate());
+        User currentUser = getCurrentUser();
+        dashboradLog.setUserId(currentUser.getId());
+        dashboradLog.setUserName(currentUser.getName());
+        List<Role> roles = roleService.listUserRoles(dashboardDetail.getOrgId(),currentUser.getId());
+        if(!CollectionUtils.isEmpty(roles)) {
+            String roleName = roles.stream().map(role -> role.getName()).collect(Collectors.joining(","));
+            dashboradLog.setRoleName(roleName);
+        }
+        dashboradLog.setResourceId(dashboardId);
+        dashboradLog.setResourceName(dashboard.getName());
+        dashboradLog.setUpdateBy(dashboard.getUpdateBy());
+        dashboradLog.setUpdateTime(dashboard.getUpdateTime());
+        if (folder != null){
+            dashboradLog.setResourceType(folder.getRelType());
+            if(folder.getIndex() != -1 && StringUtils.isNotBlank(folder.getParentId())) {
+                Folder parentFolder = folderMapper.selectByPrimaryKey(folder.getParentId());
+                if(parentFolder != null) {
+                    dashboradLog.setResourceFolder(parentFolder.getName());
+                }
+            }
+        }
+        dashboradLog.setCreateBy(currentUser.getId());
+        dashboradLog.setCreateTime(new Date());
+        dashboardLogService.log(dashboradLog);
         return dashboardDetail;
     }
 

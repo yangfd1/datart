@@ -1,0 +1,938 @@
+2022-09-23 00:49:50.810 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 00:49:50.817 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 01:49:50.812 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 01:49:50.812 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 02:49:50.812 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 02:49:50.812 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 03:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 03:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 04:07:48.807 [QuartzScheduler_DatartScheduleCluster-SH-OD-009WD1663836583667_MisfireHandler] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 944762
+2022-09-23 04:16:08.878 [DatartScheduleCluster_QuartzSchedulerThread] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 500066
+2022-09-23 04:34:10.027 [http-nio-0.0.0.0-8080-exec-3] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 1081148
+2022-09-23 04:47:09.121 [DatartScheduleCluster_QuartzSchedulerThread] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 779093
+2022-09-23 04:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 04:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 04:52:04.042 [DatartScheduleCluster_Worker-3] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 294919
+2022-09-23 05:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 05:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 06:49:50.812 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 06:49:50.812 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 06:52:04.040 [DatartScheduleCluster_Worker-5] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 234014
+2022-09-23 07:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 07:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 08:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 08:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 09:15:47.285 [http-nio-0.0.0.0-8080-exec-2] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 1423244
+2022-09-23 09:19:57.241 [http-nio-0.0.0.0-8080-exec-7] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 249882
+2022-09-23 09:20:53.966 [http-nio-0.0.0.0-8080-exec-9] INFO  d.data.provider.jdbc.DataSourceFactoryDruidImpl : druid data source created (DataSource-856054685)
+2022-09-23 09:20:54.161 [http-nio-0.0.0.0-8080-exec-7] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-5} inited
+2022-09-23 09:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 09:49:50.811 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 10:14:06.522 [DatartScheduleCluster_QuartzSchedulerThread] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 1322479
+2022-09-23 10:26:21.862 [http-nio-0.0.0.0-8080-exec-4] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 735338
+2022-09-23 10:28:37.654 [http-nio-0.0.0.0-8080-exec-1] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 133714
+2022-09-23 10:30:47.678 [http-nio-0.0.0.0-8080-exec-6] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 123208
+2022-09-23 10:42:59.901 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663836583667 paused.
+2022-09-23 10:43:00.283 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-23 10:43:00.326 [SpringContextShutdownHook] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Shutting down Quartz Scheduler
+2022-09-23 10:43:00.326 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663836583667 shutting down.
+2022-09-23 10:43:00.326 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663836583667 paused.
+2022-09-23 10:43:00.328 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663836583667 shutdown complete.
+2022-09-23 10:43:00.333 [SpringContextShutdownHook] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Disabled session validation scheduler.
+2022-09-23 10:43:00.334 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+2022-09-23 10:43:00.340 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closed
+2022-09-23 10:43:10.859 [background-preinit] INFO  org.hibernate.validator.internal.util.Version : HV000001: Hibernate Validator 6.1.7.Final
+2022-09-23 10:43:10.902 [main] INFO  datart.DatartServerApplication : Starting DatartServerApplication using Java 1.8.0_171 on SH-OD-009WD with PID 6348 (D:\WorkSpace\datart\server\target\classes started by SH-OD-009WD in D:\WorkSpace\datart)
+2022-09-23 10:43:10.903 [main] INFO  datart.DatartServerApplication : The following profiles are active: demo
+2022-09-23 10:43:13.028 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 10:43:13.030 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data LDAP repositories in DEFAULT mode.
+2022-09-23 10:43:13.137 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 99 ms. Found 0 LDAP repository interfaces.
+2022-09-23 10:43:13.149 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 10:43:13.150 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-09-23 10:43:13.197 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36 ms. Found 0 Redis repository interfaces.
+2022-09-23 10:43:13.549 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$60cf48b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:13.607 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$8a03330] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:13.890 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:13.908 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration$$EnhancerBySpringCGLIB$$cc0c965b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:13.913 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityConfiguration' of type [datart.security.manager.shiro.SecurityConfiguration$$EnhancerBySpringCGLIB$$2b1d69cc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.006 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.017 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$25c8680b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.023 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$ca00c4d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.028 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-23 10:43:14.100 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.174 [main] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+2022-09-23 10:43:14.175 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.204 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.253 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.260 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.311 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.313 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [com.sun.proxy.$Proxy103] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.431 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.433 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [com.sun.proxy.$Proxy107] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.458 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.459 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [com.sun.proxy.$Proxy110] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.495 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [org.springframework.aop.scope.ScopedProxyFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.495 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [datart.security.manager.RequestScopePermissionDataCache$$EnhancerBySpringCGLIB$$5ae90bbc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.497 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'threadScopePermissionDataCache' of type [datart.security.manager.ThreadScopePermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.497 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'permissionDataCache' of type [datart.security.manager.PermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.500 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'passwordCredentialsMatcher' of type [datart.security.manager.shiro.PasswordCredentialsMatcher] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.514 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'realm' of type [datart.security.manager.shiro.DatartRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.535 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionStorageEvaluator' of type [org.apache.shiro.mgt.DefaultSessionStorageEvaluator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.536 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectDAO' of type [org.apache.shiro.mgt.DefaultSubjectDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.538 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectFactory' of type [org.apache.shiro.mgt.DefaultSubjectFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.539 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticationStrategy' of type [org.apache.shiro.authc.pam.AtLeastOneSuccessfulStrategy] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.540 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticator' of type [org.apache.shiro.authc.pam.ModularRealmAuthenticator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.541 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizer' of type [org.apache.shiro.authz.ModularRealmAuthorizer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.544 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionDAO' of type [org.apache.shiro.session.mgt.eis.MemorySessionDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.545 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionFactory' of type [org.apache.shiro.session.mgt.SimpleSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.547 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionManager' of type [org.apache.shiro.session.mgt.DefaultSessionManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.551 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityManager' of type [org.apache.shiro.mgt.DefaultSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.566 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 10:43:14.960 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+2022-09-23 10:43:14.972 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 10:43:14.973 [main] INFO  org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2022-09-23 10:43:14.973 [main] INFO  org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2022-09-23 10:43:15.182 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2022-09-23 10:43:15.182 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4233 ms
+2022-09-23 10:43:15.584 [main] INFO  o.s.ldap.core.support.AbstractContextSource : Property 'userDn' not set - anonymous context will be used for read-write operations
+2022-09-23 10:43:16.452 [main] INFO  org.quartz.impl.StdSchedulerFactory : Using default implementation for ThreadExecutor
+2022-09-23 10:43:16.467 [main] INFO  org.quartz.core.SchedulerSignalerImpl : Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-09-23 10:43:16.467 [main] INFO  org.quartz.core.QuartzScheduler : Quartz Scheduler v.2.3.2 created.
+2022-09-23 10:43:16.471 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : Using db table-based data access locking (synchronization).
+2022-09-23 10:43:16.473 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : JobStoreCMT initialized.
+2022-09-23 10:43:16.474 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DatartScheduleCluster' with instanceId 'SH-OD-009WD1663900996457'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2022-09-23 10:43:16.474 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler 'DatartScheduleCluster' initialized from an externally provided properties instance.
+2022-09-23 10:43:16.474 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler version: 2.3.2
+2022-09-23 10:43:16.474 [main] INFO  org.quartz.core.QuartzScheduler : JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@19e2db7c
+2022-09-23 10:43:18.097 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-23 10:43:18.443 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure Ant [pattern='/api/v1/tpa'] with []
+2022-09-23 10:43:18.491 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@56d6e2e1, org.springframework.security.web.context.SecurityContextPersistenceFilter@7a053795, org.springframework.security.web.header.HeaderWriterFilter@23ffc910, org.springframework.security.web.authentication.logout.LogoutFilter@4271b748, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@328bc067, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5598dff2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4e9695cf, org.springframework.security.web.session.SessionManagementFilter@74cff17c, org.springframework.security.web.access.ExceptionTranslationFilter@4d793390]
+2022-09-23 10:43:18.820 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-23 10:43:19.489 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 10:43:19.511 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-23 10:43:19.512 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Context refreshed
+2022-09-23 10:43:19.529 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-09-23 10:43:19.840 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner : Scanning for api listing references
+2022-09-23 10:43:20.460 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_1
+2022-09-23 10:43:20.592 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: downloadFileUsingGET_1
+2022-09-23 10:43:20.603 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_2
+2022-09-23 10:43:20.835 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: checkNameUsingPOST_1
+2022-09-23 10:43:20.844 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: createUsingPOST_1
+2022-09-23 10:43:20.864 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getSubjectVariableValuesUsingGET_1
+2022-09-23 10:43:20.935 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: listArchivedUsingGET_1
+2022-09-23 10:43:20.945 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: unarchiveUsingPUT_1
+2022-09-23 10:43:21.024 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-23 10:43:21.024 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+2022-09-23 10:43:21.025 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Completed initialization in 1 ms
+2022-09-23 10:43:21.316 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getDatachartUsingGET_1
+2022-09-23 10:43:21.367 [main] WARN  s.d.s.w.readers.parameter.ParameterDataTypeReader : Trying to infer dataType datart.server.base.transfer.ImportStrategy
+2022-09-23 10:43:21.755 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Starting Quartz Scheduler now
+2022-09-23 10:43:21.803 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: detected 1 failed or restarted instances.
+2022-09-23 10:43:21.804 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: Scanning for instance "SH-OD-009WD1663836583667"'s failed in-progress jobs.
+2022-09-23 10:43:21.808 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663900996457 started.
+2022-09-23 10:43:21.834 [main] INFO  datart.DatartServerApplication : Started DatartServerApplication in 11.581 seconds (JVM running for 13.778)
+2022-09-23 10:43:21.835 [main] INFO  datart.server.config.AppModeStartConfig : The application is running in PLATFORM tenant-management-mode.
+2022-09-23 10:43:21.927 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Enabling session validation scheduler...
+2022-09-23 10:43:31.784 [http-nio-0.0.0.0-8080-exec-3] WARN  org.apache.ibatis.io.SerialFilterChecker : As you are using functionality that deserializes object streams, it is recommended to define the JEP-290 serial filter. Please refer to https://docs.oracle.com/pls/topic/lookup?ctx=javase15&id=GUID-8296D8E8-2B93-4B9A-856E-0A65AF9B8C66
+2022-09-23 10:45:57.760 [http-nio-0.0.0.0-8080-exec-5] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 147257
+2022-09-23 10:45:57.760 [http-nio-0.0.0.0-8080-exec-6] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 147133
+2022-09-23 10:45:57.760 [http-nio-0.0.0.0-8080-exec-8] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 147257
+2022-09-23 10:47:51.066 [http-nio-0.0.0.0-8080-exec-9] INFO  d.data.provider.jdbc.DataSourceFactoryDruidImpl : druid data source created (DataSource-1269723397)
+2022-09-23 10:47:54.918 [http-nio-0.0.0.0-8080-exec-2] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-2} inited
+2022-09-23 10:48:41.943 [http-nio-0.0.0.0-8080-exec-9] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 143771
+2022-09-23 10:48:41.944 [http-nio-0.0.0.0-8080-exec-9] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 153729
+2022-09-23 10:52:04.049 [DatartScheduleCluster_Worker-1] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 202033
+2022-09-23 10:55:54.638 [http-nio-0.0.0.0-8080-exec-5] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 230587
+2022-09-23 10:55:55.842 [http-nio-0.0.0.0-8080-exec-5] INFO  d.data.provider.jdbc.DataSourceFactoryDruidImpl : druid data source created (DataSource-1659539258)
+2022-09-23 10:55:56.225 [http-nio-0.0.0.0-8080-exec-4] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-3} inited
+2022-09-23 10:57:28.634 [http-nio-0.0.0.0-8080-exec-1] INFO  d.data.provider.jdbc.DataSourceFactoryDruidImpl : druid data source created (DataSource-1820898163)
+2022-09-23 10:57:28.642 [http-nio-0.0.0.0-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-4} inited
+2022-09-23 11:03:39.741 [http-nio-0.0.0.0-8080-exec-10] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 432693
+2022-09-23 11:03:39.741 [http-nio-0.0.0.0-8080-exec-5] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 439719
+2022-09-23 11:07:26.474 [QuartzScheduler_DatartScheduleCluster-SH-OD-009WD1663900996457_MisfireHandler] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 120671
+2022-09-23 11:07:26.474 [QuartzScheduler_DatartScheduleCluster-SH-OD-009WD1663900996457_ClusterManager] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 120688
+2022-09-23 11:07:50.064 [DatartScheduleCluster_QuartzSchedulerThread] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 147087
+2022-09-23 11:07:51.231 [QuartzScheduler_DatartScheduleCluster-SH-OD-009WD1663900996457_MisfireHandler] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 199409
+2022-09-23 11:10:07.706 [DatartScheduleCluster_QuartzSchedulerThread] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 117805
+2022-09-23 11:10:07.708 [http-nio-0.0.0.0-8080-exec-9] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 117808
+2022-09-23 11:43:21.930 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 11:43:21.931 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 12:06:07.729 [QuartzScheduler_DatartScheduleCluster-SH-OD-009WD1663900996457_MisfireHandler] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 843685
+2022-09-23 12:43:21.929 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 12:43:21.929 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 13:43:21.929 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 13:43:21.929 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 14:40:03.019 [http-nio-0.0.0.0-8080-exec-6] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 463450
+2022-09-23 14:41:11.475 [QuartzScheduler_DatartScheduleCluster-SH-OD-009WD1663900996457_ClusterManager] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 60053
+2022-09-23 14:43:21.929 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 14:43:21.929 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 14:48:45.542 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663900996457 paused.
+2022-09-23 14:48:46.076 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-23 14:48:46.123 [SpringContextShutdownHook] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Shutting down Quartz Scheduler
+2022-09-23 14:48:46.123 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663900996457 shutting down.
+2022-09-23 14:48:46.123 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663900996457 paused.
+2022-09-23 14:48:46.125 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663900996457 shutdown complete.
+2022-09-23 14:48:46.131 [SpringContextShutdownHook] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Disabled session validation scheduler.
+2022-09-23 14:48:46.132 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+2022-09-23 14:48:46.139 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closed
+2022-09-23 14:49:00.512 [background-preinit] INFO  org.hibernate.validator.internal.util.Version : HV000001: Hibernate Validator 6.1.7.Final
+2022-09-23 14:49:00.527 [main] INFO  datart.DatartServerApplication : Starting DatartServerApplication using Java 1.8.0_171 on SH-OD-009WD with PID 20152 (D:\WorkSpace\datart\server\target\classes started by SH-OD-009WD in D:\WorkSpace\datart)
+2022-09-23 14:49:00.527 [main] INFO  datart.DatartServerApplication : The following profiles are active: demo
+2022-09-23 14:49:02.436 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 14:49:02.438 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data LDAP repositories in DEFAULT mode.
+2022-09-23 14:49:02.543 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 99 ms. Found 0 LDAP repository interfaces.
+2022-09-23 14:49:02.556 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 14:49:02.557 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-09-23 14:49:02.603 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36 ms. Found 0 Redis repository interfaces.
+2022-09-23 14:49:02.900 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$321a0030] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:02.959 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$34ad3ed5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.246 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.263 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration$$EnhancerBySpringCGLIB$$f819a200] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.268 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityConfiguration' of type [datart.security.manager.shiro.SecurityConfiguration$$EnhancerBySpringCGLIB$$572a7571] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.340 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.349 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$51d573b0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.354 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$38ad17f2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.357 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-23 14:49:03.427 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.513 [main] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+2022-09-23 14:49:03.513 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.540 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.598 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.605 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.653 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.656 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [com.sun.proxy.$Proxy103] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.798 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.799 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [com.sun.proxy.$Proxy107] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.825 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.826 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [com.sun.proxy.$Proxy110] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.855 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [org.springframework.aop.scope.ScopedProxyFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.856 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [datart.security.manager.RequestScopePermissionDataCache$$EnhancerBySpringCGLIB$$c29de9c6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.857 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'threadScopePermissionDataCache' of type [datart.security.manager.ThreadScopePermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.858 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'permissionDataCache' of type [datart.security.manager.PermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.861 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'passwordCredentialsMatcher' of type [datart.security.manager.shiro.PasswordCredentialsMatcher] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.871 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'realm' of type [datart.security.manager.shiro.DatartRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.887 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionStorageEvaluator' of type [org.apache.shiro.mgt.DefaultSessionStorageEvaluator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.888 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectDAO' of type [org.apache.shiro.mgt.DefaultSubjectDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.889 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectFactory' of type [org.apache.shiro.mgt.DefaultSubjectFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.890 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticationStrategy' of type [org.apache.shiro.authc.pam.AtLeastOneSuccessfulStrategy] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.891 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticator' of type [org.apache.shiro.authc.pam.ModularRealmAuthenticator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.892 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizer' of type [org.apache.shiro.authz.ModularRealmAuthorizer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.895 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionDAO' of type [org.apache.shiro.session.mgt.eis.MemorySessionDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.896 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionFactory' of type [org.apache.shiro.session.mgt.SimpleSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.898 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionManager' of type [org.apache.shiro.session.mgt.DefaultSessionManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.901 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityManager' of type [org.apache.shiro.mgt.DefaultSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:03.914 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 14:49:04.307 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+2022-09-23 14:49:04.317 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 14:49:04.318 [main] INFO  org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2022-09-23 14:49:04.318 [main] INFO  org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2022-09-23 14:49:04.539 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2022-09-23 14:49:04.539 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3967 ms
+2022-09-23 14:49:04.932 [main] INFO  o.s.ldap.core.support.AbstractContextSource : Property 'userDn' not set - anonymous context will be used for read-write operations
+2022-09-23 14:49:05.734 [main] INFO  org.quartz.impl.StdSchedulerFactory : Using default implementation for ThreadExecutor
+2022-09-23 14:49:05.745 [main] INFO  org.quartz.core.SchedulerSignalerImpl : Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-09-23 14:49:05.746 [main] INFO  org.quartz.core.QuartzScheduler : Quartz Scheduler v.2.3.2 created.
+2022-09-23 14:49:05.751 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : Using db table-based data access locking (synchronization).
+2022-09-23 14:49:05.753 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : JobStoreCMT initialized.
+2022-09-23 14:49:05.753 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DatartScheduleCluster' with instanceId 'SH-OD-009WD1663915745735'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2022-09-23 14:49:05.754 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler 'DatartScheduleCluster' initialized from an externally provided properties instance.
+2022-09-23 14:49:05.754 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler version: 2.3.2
+2022-09-23 14:49:05.754 [main] INFO  org.quartz.core.QuartzScheduler : JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@2bc2e022
+2022-09-23 14:49:07.221 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-23 14:49:07.509 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure Ant [pattern='/api/v1/tpa'] with []
+2022-09-23 14:49:07.561 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@b889cb6, org.springframework.security.web.context.SecurityContextPersistenceFilter@3c9c91e3, org.springframework.security.web.header.HeaderWriterFilter@3a66d97e, org.springframework.security.web.authentication.logout.LogoutFilter@4e3a6c83, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@746da54f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@bd09a26, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@74faf450, org.springframework.security.web.session.SessionManagementFilter@4fc2933e, org.springframework.security.web.access.ExceptionTranslationFilter@3f62d56]
+2022-09-23 14:49:07.859 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-23 14:49:08.530 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 14:49:08.557 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-23 14:49:08.557 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Context refreshed
+2022-09-23 14:49:08.578 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-09-23 14:49:08.881 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner : Scanning for api listing references
+2022-09-23 14:49:09.501 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_1
+2022-09-23 14:49:09.650 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: downloadFileUsingGET_1
+2022-09-23 14:49:09.664 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_2
+2022-09-23 14:49:09.895 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: checkNameUsingPOST_1
+2022-09-23 14:49:09.903 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: createUsingPOST_1
+2022-09-23 14:49:09.919 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getSubjectVariableValuesUsingGET_1
+2022-09-23 14:49:09.984 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: listArchivedUsingGET_1
+2022-09-23 14:49:09.995 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: unarchiveUsingPUT_1
+2022-09-23 14:49:10.375 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getDatachartUsingGET_1
+2022-09-23 14:49:10.424 [main] WARN  s.d.s.w.readers.parameter.ParameterDataTypeReader : Trying to infer dataType datart.server.base.transfer.ImportStrategy
+2022-09-23 14:49:10.767 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Starting Quartz Scheduler now
+2022-09-23 14:49:10.810 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: detected 1 failed or restarted instances.
+2022-09-23 14:49:10.810 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: Scanning for instance "SH-OD-009WD1663900996457"'s failed in-progress jobs.
+2022-09-23 14:49:10.814 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663915745735 started.
+2022-09-23 14:49:10.824 [main] INFO  datart.DatartServerApplication : Started DatartServerApplication in 10.921 seconds (JVM running for 13.052)
+2022-09-23 14:49:10.825 [main] INFO  datart.server.config.AppModeStartConfig : The application is running in PLATFORM tenant-management-mode.
+2022-09-23 14:49:26.475 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-23 14:49:26.475 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+2022-09-23 14:49:26.476 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Completed initialization in 1 ms
+2022-09-23 14:49:27.308 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Enabling session validation scheduler...
+2022-09-23 14:49:30.872 [http-nio-0.0.0.0-8080-exec-2] WARN  org.apache.ibatis.io.SerialFilterChecker : As you are using functionality that deserializes object streams, it is recommended to define the JEP-290 serial filter. Please refer to https://docs.oracle.com/pls/topic/lookup?ctx=javase15&id=GUID-8296D8E8-2B93-4B9A-856E-0A65AF9B8C66
+2022-09-23 14:49:30.927 [http-nio-0.0.0.0-8080-exec-2] ERROR datart.server.config.WebExceptionHandler : null
+java.lang.NullPointerException: null
+	at datart.server.service.BaseService.saveDashboradLog(BaseService.java:115)
+	at datart.server.service.impl.DashboardServiceImpl.getDashboardDetail(DashboardServiceImpl.java:217)
+	at datart.server.service.impl.DashboardServiceImpl$$FastClassBySpringCGLIB$$c09188cd.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at datart.server.service.impl.DashboardServiceImpl$$EnhancerBySpringCGLIB$$909dee63.getDashboardDetail(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:208)
+	at com.sun.proxy.$Proxy186.getDashboardDetail(Unknown Source)
+	at datart.server.service.impl.VizServiceImpl.getDashboard(VizServiceImpl.java:231)
+	at datart.server.service.impl.VizServiceImpl$$FastClassBySpringCGLIB$$a2ea9a5a.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at datart.server.service.impl.VizServiceImpl$$EnhancerBySpringCGLIB$$1806032a.getDashboard(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:208)
+	at com.sun.proxy.$Proxy196.getDashboard(Unknown Source)
+	at datart.server.controller.VizController.getDashboard(VizController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:113)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:887)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1684)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2022-09-23 14:52:04.099 [DatartScheduleCluster_Worker-1] INFO  d.data.provider.jdbc.DataSourceFactoryDruidImpl : druid data source created (DataSource-1184818224)
+2022-09-23 14:52:04.103 [DatartScheduleCluster_Worker-1] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-2} inited
+2022-09-23 15:12:17.466 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663915745735 paused.
+2022-09-23 15:12:17.817 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-23 15:12:17.843 [SpringContextShutdownHook] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Shutting down Quartz Scheduler
+2022-09-23 15:12:17.843 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663915745735 shutting down.
+2022-09-23 15:12:17.843 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663915745735 paused.
+2022-09-23 15:12:17.844 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663915745735 shutdown complete.
+2022-09-23 15:12:17.847 [SpringContextShutdownHook] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Disabled session validation scheduler.
+2022-09-23 15:12:17.848 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+2022-09-23 15:12:17.853 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closed
+2022-09-23 15:12:33.888 [background-preinit] INFO  org.hibernate.validator.internal.util.Version : HV000001: Hibernate Validator 6.1.7.Final
+2022-09-23 15:12:33.923 [main] INFO  datart.DatartServerApplication : Starting DatartServerApplication using Java 1.8.0_171 on SH-OD-009WD with PID 4464 (D:\WorkSpace\datart\server\target\classes started by SH-OD-009WD in D:\WorkSpace\datart)
+2022-09-23 15:12:33.924 [main] INFO  datart.DatartServerApplication : The following profiles are active: demo
+2022-09-23 15:12:35.689 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 15:12:35.690 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data LDAP repositories in DEFAULT mode.
+2022-09-23 15:12:35.793 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 97 ms. Found 0 LDAP repository interfaces.
+2022-09-23 15:12:35.806 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 15:12:35.807 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-09-23 15:12:35.858 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 40 ms. Found 0 Redis repository interfaces.
+2022-09-23 15:12:36.140 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$1a8bf059] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.194 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$1d1f2efe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.461 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.476 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration$$EnhancerBySpringCGLIB$$e08b9229] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.481 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityConfiguration' of type [datart.security.manager.shiro.SecurityConfiguration$$EnhancerBySpringCGLIB$$3f9c659a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.551 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.560 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$3a4763d9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.563 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$211f081b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.566 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-23 15:12:36.634 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.707 [main] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+2022-09-23 15:12:36.707 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.736 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.787 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.793 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.840 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.842 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [com.sun.proxy.$Proxy103] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.982 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:36.985 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [com.sun.proxy.$Proxy107] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.020 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.022 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [com.sun.proxy.$Proxy110] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.067 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [org.springframework.aop.scope.ScopedProxyFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.067 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [datart.security.manager.RequestScopePermissionDataCache$$EnhancerBySpringCGLIB$$7e8fb6e3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.070 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'threadScopePermissionDataCache' of type [datart.security.manager.ThreadScopePermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.071 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'permissionDataCache' of type [datart.security.manager.PermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.074 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'passwordCredentialsMatcher' of type [datart.security.manager.shiro.PasswordCredentialsMatcher] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.092 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'realm' of type [datart.security.manager.shiro.DatartRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.114 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionStorageEvaluator' of type [org.apache.shiro.mgt.DefaultSessionStorageEvaluator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.115 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectDAO' of type [org.apache.shiro.mgt.DefaultSubjectDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.118 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectFactory' of type [org.apache.shiro.mgt.DefaultSubjectFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.119 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticationStrategy' of type [org.apache.shiro.authc.pam.AtLeastOneSuccessfulStrategy] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.119 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticator' of type [org.apache.shiro.authc.pam.ModularRealmAuthenticator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.120 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizer' of type [org.apache.shiro.authz.ModularRealmAuthorizer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.123 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionDAO' of type [org.apache.shiro.session.mgt.eis.MemorySessionDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.125 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionFactory' of type [org.apache.shiro.session.mgt.SimpleSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.128 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionManager' of type [org.apache.shiro.session.mgt.DefaultSessionManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.132 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityManager' of type [org.apache.shiro.mgt.DefaultSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.149 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:12:37.512 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+2022-09-23 15:12:37.522 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 15:12:37.523 [main] INFO  org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2022-09-23 15:12:37.523 [main] INFO  org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2022-09-23 15:12:37.711 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2022-09-23 15:12:37.711 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3751 ms
+2022-09-23 15:12:38.129 [main] INFO  o.s.ldap.core.support.AbstractContextSource : Property 'userDn' not set - anonymous context will be used for read-write operations
+2022-09-23 15:12:38.910 [main] INFO  org.quartz.impl.StdSchedulerFactory : Using default implementation for ThreadExecutor
+2022-09-23 15:12:38.921 [main] INFO  org.quartz.core.SchedulerSignalerImpl : Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-09-23 15:12:38.921 [main] INFO  org.quartz.core.QuartzScheduler : Quartz Scheduler v.2.3.2 created.
+2022-09-23 15:12:38.925 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : Using db table-based data access locking (synchronization).
+2022-09-23 15:12:38.927 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : JobStoreCMT initialized.
+2022-09-23 15:12:38.927 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DatartScheduleCluster' with instanceId 'SH-OD-009WD1663917158912'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2022-09-23 15:12:38.928 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler 'DatartScheduleCluster' initialized from an externally provided properties instance.
+2022-09-23 15:12:38.928 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler version: 2.3.2
+2022-09-23 15:12:38.928 [main] INFO  org.quartz.core.QuartzScheduler : JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@41d877bb
+2022-09-23 15:12:40.492 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-23 15:12:40.779 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure Ant [pattern='/api/v1/tpa'] with []
+2022-09-23 15:12:40.826 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5c16561a, org.springframework.security.web.context.SecurityContextPersistenceFilter@6dfebd2a, org.springframework.security.web.header.HeaderWriterFilter@67d8613, org.springframework.security.web.authentication.logout.LogoutFilter@4511146f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1bb0fa38, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@62f305bc, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5819ee0f, org.springframework.security.web.session.SessionManagementFilter@522fb69, org.springframework.security.web.access.ExceptionTranslationFilter@46c2189e]
+2022-09-23 15:12:41.140 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-23 15:12:41.765 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 15:12:41.791 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-23 15:12:41.791 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Context refreshed
+2022-09-23 15:12:41.809 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-09-23 15:12:42.115 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner : Scanning for api listing references
+2022-09-23 15:12:42.719 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_1
+2022-09-23 15:12:42.847 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: downloadFileUsingGET_1
+2022-09-23 15:12:42.858 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_2
+2022-09-23 15:12:43.078 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: checkNameUsingPOST_1
+2022-09-23 15:12:43.088 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: createUsingPOST_1
+2022-09-23 15:12:43.105 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getSubjectVariableValuesUsingGET_1
+2022-09-23 15:12:43.161 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: listArchivedUsingGET_1
+2022-09-23 15:12:43.172 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: unarchiveUsingPUT_1
+2022-09-23 15:12:43.513 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getDatachartUsingGET_1
+2022-09-23 15:12:43.560 [main] WARN  s.d.s.w.readers.parameter.ParameterDataTypeReader : Trying to infer dataType datart.server.base.transfer.ImportStrategy
+2022-09-23 15:12:43.899 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Starting Quartz Scheduler now
+2022-09-23 15:12:43.944 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: detected 1 failed or restarted instances.
+2022-09-23 15:12:43.944 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: Scanning for instance "SH-OD-009WD1663915745735"'s failed in-progress jobs.
+2022-09-23 15:12:43.948 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917158912 started.
+2022-09-23 15:12:43.959 [main] INFO  datart.DatartServerApplication : Started DatartServerApplication in 10.559 seconds (JVM running for 12.576)
+2022-09-23 15:12:43.959 [main] INFO  datart.server.config.AppModeStartConfig : The application is running in PLATFORM tenant-management-mode.
+2022-09-23 15:13:10.020 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-23 15:13:10.020 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+2022-09-23 15:13:10.021 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Completed initialization in 1 ms
+2022-09-23 15:13:10.825 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Enabling session validation scheduler...
+2022-09-23 15:13:34.661 [http-nio-0.0.0.0-8080-exec-4] WARN  org.apache.ibatis.io.SerialFilterChecker : As you are using functionality that deserializes object streams, it is recommended to define the JEP-290 serial filter. Please refer to https://docs.oracle.com/pls/topic/lookup?ctx=javase15&id=GUID-8296D8E8-2B93-4B9A-856E-0A65AF9B8C66
+2022-09-23 15:13:34.759 [http-nio-0.0.0.0-8080-exec-4] ERROR datart.server.config.WebExceptionHandler : 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'id' cannot be null
+### The error may exist in datart/core/mappers/DashboardLogMapper.java (best guess)
+### The error may involve datart.core.mappers.DashboardLogMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: insert into dashboard_log (id, `user_id`,  user_name, role_name,  resource_type, resource_id,  resource_name, resource_folder,  create_by,create_time,  update_by,update_time) values (?, ?,  ?, ?,  ?, ?,  ?, ?,  ?,?, ?,?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'id' cannot be null
+; Column 'id' cannot be null; nested exception is java.sql.SQLIntegrityConstraintViolationException: Column 'id' cannot be null
+org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'id' cannot be null
+### The error may exist in datart/core/mappers/DashboardLogMapper.java (best guess)
+### The error may involve datart.core.mappers.DashboardLogMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: insert into dashboard_log (id, `user_id`,  user_name, role_name,  resource_type, resource_id,  resource_name, resource_folder,  create_by,create_time,  update_by,update_time) values (?, ?,  ?, ?,  ?, ?,  ?, ?,  ?,?, ?,?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'id' cannot be null
+; Column 'id' cannot be null; nested exception is java.sql.SQLIntegrityConstraintViolationException: Column 'id' cannot be null
+	at org.springframework.jdbc.support.SQLExceptionSubclassTranslator.doTranslate(SQLExceptionSubclassTranslator.java:87)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:70)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:79)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:91)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:441)
+	at com.sun.proxy.$Proxy93.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:272)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:62)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:152)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy186.insert(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy187.insert(Unknown Source)
+	at datart.server.service.impl.DashboardLogServiceImpl.log(DashboardLogServiceImpl.java:41)
+	at datart.server.service.impl.DashboardLogServiceImpl$$FastClassBySpringCGLIB$$2c043f39.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+	at datart.server.service.impl.DashboardLogServiceImpl$$EnhancerBySpringCGLIB$$59acfac9.log(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy188.log(Unknown Source)
+	at datart.server.service.impl.DashboardServiceImpl.getDashboardDetail(DashboardServiceImpl.java:221)
+	at datart.server.service.impl.DashboardServiceImpl$$FastClassBySpringCGLIB$$c09188cd.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at datart.server.service.impl.DashboardServiceImpl$$EnhancerBySpringCGLIB$$87557405.getDashboardDetail(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:208)
+	at com.sun.proxy.$Proxy189.getDashboardDetail(Unknown Source)
+	at datart.server.service.impl.VizServiceImpl.getDashboard(VizServiceImpl.java:231)
+	at datart.server.service.impl.VizServiceImpl$$FastClassBySpringCGLIB$$a2ea9a5a.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at datart.server.service.impl.VizServiceImpl$$EnhancerBySpringCGLIB$$ebd88cc.getDashboard(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:208)
+	at com.sun.proxy.$Proxy199.getDashboard(Unknown Source)
+	at datart.server.controller.VizController.getDashboard(VizController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:113)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:887)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1684)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Column 'id' cannot be null
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	... 150 common frames omitted
+2022-09-23 15:14:29.810 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917158912 paused.
+2022-09-23 15:14:30.345 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-23 15:14:30.387 [SpringContextShutdownHook] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Shutting down Quartz Scheduler
+2022-09-23 15:14:30.400 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917158912 shutting down.
+2022-09-23 15:14:30.400 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917158912 paused.
+2022-09-23 15:14:30.405 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917158912 shutdown complete.
+2022-09-23 15:14:30.410 [SpringContextShutdownHook] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Disabled session validation scheduler.
+2022-09-23 15:14:30.412 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+2022-09-23 15:14:30.422 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closed
+2022-09-23 15:14:41.016 [background-preinit] INFO  org.hibernate.validator.internal.util.Version : HV000001: Hibernate Validator 6.1.7.Final
+2022-09-23 15:14:41.047 [main] INFO  datart.DatartServerApplication : Starting DatartServerApplication using Java 1.8.0_171 on SH-OD-009WD with PID 19920 (D:\WorkSpace\datart\server\target\classes started by SH-OD-009WD in D:\WorkSpace\datart)
+2022-09-23 15:14:41.047 [main] INFO  datart.DatartServerApplication : The following profiles are active: demo
+2022-09-23 15:14:42.733 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 15:14:42.735 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data LDAP repositories in DEFAULT mode.
+2022-09-23 15:14:42.841 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 101 ms. Found 0 LDAP repository interfaces.
+2022-09-23 15:14:42.853 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 15:14:42.854 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-09-23 15:14:42.900 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36 ms. Found 0 Redis repository interfaces.
+2022-09-23 15:14:43.190 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$482d05e3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.248 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$4ac04488] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.520 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.540 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration$$EnhancerBySpringCGLIB$$e2ca7b3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.545 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityConfiguration' of type [datart.security.manager.shiro.SecurityConfiguration$$EnhancerBySpringCGLIB$$6d3d7b24] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.617 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.625 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$67e87963] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.630 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$4ec01da5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.633 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-23 15:14:43.696 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.769 [main] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+2022-09-23 15:14:43.769 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.809 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.876 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.882 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.937 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:43.940 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [com.sun.proxy.$Proxy103] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.158 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.159 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [com.sun.proxy.$Proxy107] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.186 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.188 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [com.sun.proxy.$Proxy110] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.225 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [org.springframework.aop.scope.ScopedProxyFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.225 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [datart.security.manager.RequestScopePermissionDataCache$$EnhancerBySpringCGLIB$$7daf8f72] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.228 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'threadScopePermissionDataCache' of type [datart.security.manager.ThreadScopePermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.229 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'permissionDataCache' of type [datart.security.manager.PermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.234 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'passwordCredentialsMatcher' of type [datart.security.manager.shiro.PasswordCredentialsMatcher] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.254 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'realm' of type [datart.security.manager.shiro.DatartRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.281 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionStorageEvaluator' of type [org.apache.shiro.mgt.DefaultSessionStorageEvaluator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.283 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectDAO' of type [org.apache.shiro.mgt.DefaultSubjectDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.285 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectFactory' of type [org.apache.shiro.mgt.DefaultSubjectFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.287 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticationStrategy' of type [org.apache.shiro.authc.pam.AtLeastOneSuccessfulStrategy] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.288 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticator' of type [org.apache.shiro.authc.pam.ModularRealmAuthenticator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.290 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizer' of type [org.apache.shiro.authz.ModularRealmAuthorizer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.295 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionDAO' of type [org.apache.shiro.session.mgt.eis.MemorySessionDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.297 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionFactory' of type [org.apache.shiro.session.mgt.SimpleSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.301 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionManager' of type [org.apache.shiro.session.mgt.DefaultSessionManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.307 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityManager' of type [org.apache.shiro.mgt.DefaultSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.327 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:14:44.705 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+2022-09-23 15:14:44.714 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 15:14:44.715 [main] INFO  org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2022-09-23 15:14:44.715 [main] INFO  org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2022-09-23 15:14:44.934 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2022-09-23 15:14:44.935 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3845 ms
+2022-09-23 15:14:45.370 [main] INFO  o.s.ldap.core.support.AbstractContextSource : Property 'userDn' not set - anonymous context will be used for read-write operations
+2022-09-23 15:14:46.181 [main] INFO  org.quartz.impl.StdSchedulerFactory : Using default implementation for ThreadExecutor
+2022-09-23 15:14:46.196 [main] INFO  org.quartz.core.SchedulerSignalerImpl : Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-09-23 15:14:46.196 [main] INFO  org.quartz.core.QuartzScheduler : Quartz Scheduler v.2.3.2 created.
+2022-09-23 15:14:46.202 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : Using db table-based data access locking (synchronization).
+2022-09-23 15:14:46.204 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : JobStoreCMT initialized.
+2022-09-23 15:14:46.205 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DatartScheduleCluster' with instanceId 'SH-OD-009WD1663917286183'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2022-09-23 15:14:46.205 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler 'DatartScheduleCluster' initialized from an externally provided properties instance.
+2022-09-23 15:14:46.205 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler version: 2.3.2
+2022-09-23 15:14:46.205 [main] INFO  org.quartz.core.QuartzScheduler : JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@57920d6c
+2022-09-23 15:14:47.910 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-23 15:14:48.197 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure Ant [pattern='/api/v1/tpa'] with []
+2022-09-23 15:14:48.245 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2ad6895a, org.springframework.security.web.context.SecurityContextPersistenceFilter@70273633, org.springframework.security.web.header.HeaderWriterFilter@53016c98, org.springframework.security.web.authentication.logout.LogoutFilter@2a349a73, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1f641fb7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1add90e0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@10e4cc6, org.springframework.security.web.session.SessionManagementFilter@ab94a32, org.springframework.security.web.access.ExceptionTranslationFilter@57f83c82]
+2022-09-23 15:14:48.548 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-23 15:14:49.341 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 15:14:49.371 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-23 15:14:49.372 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Context refreshed
+2022-09-23 15:14:49.393 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-09-23 15:14:49.726 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner : Scanning for api listing references
+2022-09-23 15:14:50.404 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_1
+2022-09-23 15:14:50.564 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: downloadFileUsingGET_1
+2022-09-23 15:14:50.581 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_2
+2022-09-23 15:14:50.838 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: checkNameUsingPOST_1
+2022-09-23 15:14:50.850 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: createUsingPOST_1
+2022-09-23 15:14:50.869 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getSubjectVariableValuesUsingGET_1
+2022-09-23 15:14:50.936 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: listArchivedUsingGET_1
+2022-09-23 15:14:50.946 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: unarchiveUsingPUT_1
+2022-09-23 15:14:51.329 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getDatachartUsingGET_1
+2022-09-23 15:14:51.384 [main] WARN  s.d.s.w.readers.parameter.ParameterDataTypeReader : Trying to infer dataType datart.server.base.transfer.ImportStrategy
+2022-09-23 15:14:51.730 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Starting Quartz Scheduler now
+2022-09-23 15:14:51.771 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: detected 1 failed or restarted instances.
+2022-09-23 15:14:51.772 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: Scanning for instance "SH-OD-009WD1663917158912"'s failed in-progress jobs.
+2022-09-23 15:14:51.775 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917286183 started.
+2022-09-23 15:14:51.786 [main] INFO  datart.DatartServerApplication : Started DatartServerApplication in 11.277 seconds (JVM running for 13.512)
+2022-09-23 15:14:51.787 [main] INFO  datart.server.config.AppModeStartConfig : The application is running in PLATFORM tenant-management-mode.
+2022-09-23 15:14:54.048 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-23 15:14:54.048 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+2022-09-23 15:14:54.049 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Completed initialization in 1 ms
+2022-09-23 15:14:54.831 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Enabling session validation scheduler...
+2022-09-23 15:15:56.970 [http-nio-0.0.0.0-8080-exec-9] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 65176
+2022-09-23 15:16:00.083 [http-nio-0.0.0.0-8080-exec-3] WARN  org.apache.ibatis.io.SerialFilterChecker : As you are using functionality that deserializes object streams, it is recommended to define the JEP-290 serial filter. Please refer to https://docs.oracle.com/pls/topic/lookup?ctx=javase15&id=GUID-8296D8E8-2B93-4B9A-856E-0A65AF9B8C66
+2022-09-23 15:16:00.671 [http-nio-0.0.0.0-8080-exec-4] INFO  d.data.provider.jdbc.DataSourceFactoryDruidImpl : druid data source created (DataSource-41841217)
+2022-09-23 15:16:01.023 [http-nio-0.0.0.0-8080-exec-5] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-2} inited
+2022-09-23 15:24:02.909 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917286183 paused.
+2022-09-23 15:24:03.397 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-23 15:24:03.442 [SpringContextShutdownHook] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Shutting down Quartz Scheduler
+2022-09-23 15:24:03.442 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917286183 shutting down.
+2022-09-23 15:24:03.442 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917286183 paused.
+2022-09-23 15:24:03.443 [SpringContextShutdownHook] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917286183 shutdown complete.
+2022-09-23 15:24:03.450 [SpringContextShutdownHook] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Disabled session validation scheduler.
+2022-09-23 15:24:03.451 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+2022-09-23 15:24:03.458 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} closed
+2022-09-23 15:24:14.532 [background-preinit] INFO  org.hibernate.validator.internal.util.Version : HV000001: Hibernate Validator 6.1.7.Final
+2022-09-23 15:24:14.563 [main] INFO  datart.DatartServerApplication : Starting DatartServerApplication using Java 1.8.0_171 on SH-OD-009WD with PID 20100 (D:\WorkSpace\datart\server\target\classes started by SH-OD-009WD in D:\WorkSpace\datart)
+2022-09-23 15:24:14.564 [main] INFO  datart.DatartServerApplication : The following profiles are active: demo
+2022-09-23 15:24:16.140 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 15:24:16.142 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data LDAP repositories in DEFAULT mode.
+2022-09-23 15:24:16.244 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 95 ms. Found 0 LDAP repository interfaces.
+2022-09-23 15:24:16.256 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-09-23 15:24:16.258 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-09-23 15:24:16.310 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 42 ms. Found 0 Redis repository interfaces.
+2022-09-23 15:24:16.610 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroBeanAutoConfiguration$$EnhancerBySpringCGLIB$$24a0370c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:16.680 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration$$EnhancerBySpringCGLIB$$273375b1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:16.975 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'eventBus' of type [org.apache.shiro.event.support.DefaultEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:16.991 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration' of type [org.apache.shiro.spring.boot.autoconfigure.ShiroAutoConfiguration$$EnhancerBySpringCGLIB$$ea9fd8dc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:16.996 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityConfiguration' of type [datart.security.manager.shiro.SecurityConfiguration$$EnhancerBySpringCGLIB$$49b0ac4d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.072 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.081 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$445baa8c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.087 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$2b334ece] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.090 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-23 15:24:17.158 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.226 [main] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+2022-09-23 15:24:17.227 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.253 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.359 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.364 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.419 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.421 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'userMapperExt' of type [com.sun.proxy.$Proxy103] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.538 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.539 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'roleMapperExt' of type [com.sun.proxy.$Proxy107] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.564 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.566 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'relRoleResourceMapperExt' of type [com.sun.proxy.$Proxy110] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.595 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [org.springframework.aop.scope.ScopedProxyFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.595 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'requestScopePermissionDataCache' of type [datart.security.manager.RequestScopePermissionDataCache$$EnhancerBySpringCGLIB$$1b1676b8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.597 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'threadScopePermissionDataCache' of type [datart.security.manager.ThreadScopePermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.598 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'permissionDataCache' of type [datart.security.manager.PermissionDataCache] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.601 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'passwordCredentialsMatcher' of type [datart.security.manager.shiro.PasswordCredentialsMatcher] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.612 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'realm' of type [datart.security.manager.shiro.DatartRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.629 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionStorageEvaluator' of type [org.apache.shiro.mgt.DefaultSessionStorageEvaluator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.630 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectDAO' of type [org.apache.shiro.mgt.DefaultSubjectDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.632 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'subjectFactory' of type [org.apache.shiro.mgt.DefaultSubjectFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.633 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticationStrategy' of type [org.apache.shiro.authc.pam.AtLeastOneSuccessfulStrategy] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.633 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authenticator' of type [org.apache.shiro.authc.pam.ModularRealmAuthenticator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.635 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizer' of type [org.apache.shiro.authz.ModularRealmAuthorizer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.639 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionDAO' of type [org.apache.shiro.session.mgt.eis.MemorySessionDAO] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.641 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionFactory' of type [org.apache.shiro.session.mgt.SimpleSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.644 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'sessionManager' of type [org.apache.shiro.session.mgt.DefaultSessionManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.647 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'securityManager' of type [org.apache.shiro.mgt.DefaultSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:17.666 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-23 15:24:18.053 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+2022-09-23 15:24:18.063 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 15:24:18.064 [main] INFO  org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2022-09-23 15:24:18.065 [main] INFO  org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2022-09-23 15:24:18.250 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2022-09-23 15:24:18.250 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3626 ms
+2022-09-23 15:24:18.647 [main] INFO  o.s.ldap.core.support.AbstractContextSource : Property 'userDn' not set - anonymous context will be used for read-write operations
+2022-09-23 15:24:19.449 [main] INFO  org.quartz.impl.StdSchedulerFactory : Using default implementation for ThreadExecutor
+2022-09-23 15:24:19.462 [main] INFO  org.quartz.core.SchedulerSignalerImpl : Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-09-23 15:24:19.462 [main] INFO  org.quartz.core.QuartzScheduler : Quartz Scheduler v.2.3.2 created.
+2022-09-23 15:24:19.466 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : Using db table-based data access locking (synchronization).
+2022-09-23 15:24:19.468 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : JobStoreCMT initialized.
+2022-09-23 15:24:19.468 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DatartScheduleCluster' with instanceId 'SH-OD-009WD1663917859450'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2022-09-23 15:24:19.469 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler 'DatartScheduleCluster' initialized from an externally provided properties instance.
+2022-09-23 15:24:19.469 [main] INFO  org.quartz.impl.StdSchedulerFactory : Quartz scheduler version: 2.3.2
+2022-09-23 15:24:19.469 [main] INFO  org.quartz.core.QuartzScheduler : JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@ab4d2ba
+2022-09-23 15:24:21.044 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-23 15:24:21.341 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure Ant [pattern='/api/v1/tpa'] with []
+2022-09-23 15:24:21.388 [main] INFO  o.s.security.web.DefaultSecurityFilterChain : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1b5d1d9, org.springframework.security.web.context.SecurityContextPersistenceFilter@2f82e3cf, org.springframework.security.web.header.HeaderWriterFilter@870a9f2, org.springframework.security.web.authentication.logout.LogoutFilter@47fc9ce, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3a44993c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@153d14e3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@703a2bc9, org.springframework.security.web.session.SessionManagementFilter@301f9aa0, org.springframework.security.web.access.ExceptionTranslationFilter@f833223]
+2022-09-23 15:24:21.730 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-23 15:24:22.436 [main] INFO  org.apache.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-0.0.0.0-8080"]
+2022-09-23 15:24:22.463 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-23 15:24:22.464 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Context refreshed
+2022-09-23 15:24:22.484 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-09-23 15:24:22.841 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner : Scanning for api listing references
+2022-09-23 15:24:23.036 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-23 15:24:23.037 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+2022-09-23 15:24:23.038 [http-nio-0.0.0.0-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet : Completed initialization in 1 ms
+2022-09-23 15:24:23.605 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_1
+2022-09-23 15:24:23.756 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: downloadFileUsingGET_1
+2022-09-23 15:24:23.769 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: executeUsingPOST_2
+2022-09-23 15:24:23.948 [http-nio-0.0.0.0-8080-exec-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Enabling session validation scheduler...
+2022-09-23 15:24:24.050 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: checkNameUsingPOST_1
+2022-09-23 15:24:24.068 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: createUsingPOST_1
+2022-09-23 15:24:24.106 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getSubjectVariableValuesUsingGET_1
+2022-09-23 15:24:24.188 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: listArchivedUsingGET_1
+2022-09-23 15:24:24.203 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: unarchiveUsingPUT_1
+2022-09-23 15:24:24.653 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator : Generating unique operation named: getDatachartUsingGET_1
+2022-09-23 15:24:24.703 [main] WARN  s.d.s.w.readers.parameter.ParameterDataTypeReader : Trying to infer dataType datart.server.base.transfer.ImportStrategy
+2022-09-23 15:24:25.087 [main] INFO  o.s.scheduling.quartz.SchedulerFactoryBean : Starting Quartz Scheduler now
+2022-09-23 15:24:25.100 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: detected 1 failed or restarted instances.
+2022-09-23 15:24:25.100 [main] INFO  o.s.scheduling.quartz.LocalDataSourceJobStore : ClusterManager: Scanning for instance "SH-OD-009WD1663917286183"'s failed in-progress jobs.
+2022-09-23 15:24:25.104 [main] INFO  org.quartz.core.QuartzScheduler : Scheduler DatartScheduleCluster_$_SH-OD-009WD1663917859450 started.
+2022-09-23 15:24:25.117 [main] INFO  datart.DatartServerApplication : Started DatartServerApplication in 11.111 seconds (JVM running for 13.281)
+2022-09-23 15:24:25.119 [main] INFO  datart.server.config.AppModeStartConfig : The application is running in PLATFORM tenant-management-mode.
+2022-09-23 15:24:33.441 [http-nio-0.0.0.0-8080-exec-2] WARN  org.apache.ibatis.io.SerialFilterChecker : As you are using functionality that deserializes object streams, it is recommended to define the JEP-290 serial filter. Please refer to https://docs.oracle.com/pls/topic/lookup?ctx=javase15&id=GUID-8296D8E8-2B93-4B9A-856E-0A65AF9B8C66
+2022-09-23 15:24:34.099 [http-nio-0.0.0.0-8080-exec-3] INFO  d.data.provider.jdbc.DataSourceFactoryDruidImpl : druid data source created (DataSource-143534067)
+2022-09-23 15:24:34.468 [http-nio-0.0.0.0-8080-exec-3] INFO  com.alibaba.druid.pool.DruidDataSource : {dataSource-2} inited
+2022-09-23 15:33:30.196 [DatartScheduleCluster_QuartzSchedulerThread] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 539724
+2022-09-23 15:52:04.052 [DatartScheduleCluster_Worker-1] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 1113855
+2022-09-23 16:24:23.957 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 16:24:23.958 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 17:24:23.950 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 17:24:23.950 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 17:52:04.039 [DatartScheduleCluster_Worker-3] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 462866
+2022-09-23 18:24:23.950 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 18:24:23.950 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 19:24:23.949 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 19:24:23.949 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 20:24:23.949 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 20:24:23.949 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 21:24:23.949 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 21:24:23.949 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 22:09:03.065 [DatartScheduleCluster_QuartzSchedulerThread] WARN  com.alibaba.druid.pool.DruidAbstractDataSource : discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/datart?rewriteBatchedStatements=true&allowPublicKeyRetrieval=true&failOverReadOnly=false&allowMultiQueries=true&characterEncoding=utf-8&autoReconnect=true&allowLoadLocalInfile=true&useSSL=false, version : 1.2.4, lastPacketReceivedIdleMillis : 1019018
+2022-09-23 22:24:23.951 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 22:24:23.951 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
+2022-09-23 23:24:23.951 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Validating all active sessions...
+2022-09-23 23:24:23.951 [SessionValidationThread-1] INFO  o.a.s.session.mgt.AbstractValidatingSessionManager : Finished session validation.  No sessions were stopped.
