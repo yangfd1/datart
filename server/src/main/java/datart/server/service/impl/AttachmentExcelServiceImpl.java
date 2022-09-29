@@ -44,7 +44,7 @@ public class AttachmentExcelServiceImpl implements AttachmentService {
             viewExecuteParam.setPageInfo(PageInfo.builder().pageNo(1).pageSize(orgSettingService.getDownloadRecordLimit(view.getOrgId())).build());
             Dataframe dataframe = dataProviderService.execute(downloadParams.getDownloadParams().get(i));
             //根据权限下载数据
-            dataframe.setRows(dataframe.getRows().subList(0,5));
+            // dataframe.setRows(dataframe.getRows().subList(0,5));
             String chartConfigStr = vizService.getChartConfigByVizId(viewExecuteParam.getVizType(), viewExecuteParam.getVizId());
             POISettings poiSettings = PoiConvertUtils.covertToPoiSetting(chartConfigStr, dataframe);
             String sheetName = StringUtils.isNotBlank(viewExecuteParam.getVizName()) ? viewExecuteParam.getVizName() : "Sheet"+i;
